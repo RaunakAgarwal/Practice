@@ -1,0 +1,14 @@
+#include<iostream>
+#include<math.h>
+using namespace std;
+int main(){
+unsigned int a;
+unsigned int b;
+cout<<"Enter two numbers";
+cout<<"Enter first number";
+cin>>a;
+cout<<"Enter second number";
+cin>>b;
+int c = a+b;
+cout<<c;
+}
